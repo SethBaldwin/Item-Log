@@ -1,0 +1,46 @@
+[Wed 12/10/14 01:05:19 <Cepstrum> ] File Error: Logfile could not be created (Could not log Bitter Bludgeon
+Cudgel, Cudgel[6])
+[Wed 12/10/14 01:05:19 <Cepstrum> ] File Error: Filehandle is null (Could not log Bitter Bludgeon
+Cudgel, Cudgel[6])
+[Wed 12/10/14 01:05:21 <Cepstrum> ] File Error: Logfile could not be created (Could not log Glyph Needle
+Claymore, Claymore[6])
+[Wed 12/10/14 01:05:21 <Cepstrum> ] File Error: Filehandle is null (Could not log Glyph Needle
+Claymore, Claymore[6])
+[Wed 12/10/14 01:07:57 <Cepstrum> ] File Error: Logfile could not be created (Could not log Ghoul Sever
+War Sword, War Sword[6])
+[Wed 12/10/14 01:07:57 <Cepstrum> ] File Error: Filehandle is null (Could not log Ghoul Sever
+War Sword, War Sword[6])
+[Wed 12/10/14 01:08:07 <Cepstrum> ] File Error: Logfile could not be created (Could not log Plague Hood
+Coronet, Coronet[6])
+[Wed 12/10/14 01:08:07 <Cepstrum> ] File Error: Filehandle is null (Could not log Plague Hood
+Coronet, Coronet[6])
+[Wed 12/10/14 01:08:08 <Cepstrum> ] File Error: Logfile could not be created (Could not log Wraith Prod
+Scythe, Scythe[6])
+[Wed 12/10/14 01:08:08 <Cepstrum> ] File Error: Filehandle is null (Could not log Wraith Prod
+Scythe, Scythe[6])
+[Wed 12/10/14 01:08:10 <Cepstrum> ] File Error: Logfile could not be created (Could not log Hailstone Guard
+Spiked Shield, Spiked Shield[6])
+[Wed 12/10/14 01:08:10 <Cepstrum> ] File Error: Filehandle is null (Could not log Hailstone Guard
+Spiked Shield, Spiked Shield[6])
+[Wed 12/10/14 01:08:48 <Cepstrum> ] File Error: Logfile could not be created (Could not log Death Mask, Death Mask[5])
+[Wed 12/10/14 01:08:48 <Cepstrum> ] File Error: Filehandle is null (Could not log Death Mask, Death Mask[5])
+[Wed 12/10/14 01:09:10 <Cepstrum> ] File Error: Logfile could not be created (Could not log Fiend Scythe
+Flamberge, Flamberge[6])
+[Wed 12/10/14 01:09:10 <Cepstrum> ] File Error: Filehandle is null (Could not log Fiend Scythe
+Flamberge, Flamberge[6])
+[Wed 12/10/14 01:09:11 <Cepstrum> ] File Error: Logfile could not be created (Could not log Loath Brow
+Helm, Helm[6])
+[Wed 12/10/14 01:09:11 <Cepstrum> ] File Error: Filehandle is null (Could not log Loath Brow
+Helm, Helm[6])
+[Wed 12/10/14 01:14:38 <Cepstrum> ] File Error: Logfile could not be created (Could not log Corpse Bar
+Partizan, Partizan[6])
+[Wed 12/10/14 01:14:38 <Cepstrum> ] File Error: Filehandle is null (Could not log Corpse Bar
+Partizan, Partizan[6])
+[Wed 12/10/14 01:17:40 <Cepstrum> ] File Error: Logfile could not be created (Could not log Eagle Edge
+Military Axe, Military Axe[6])
+[Wed 12/10/14 01:17:40 <Cepstrum> ] File Error: Filehandle is null (Could not log Eagle Edge
+Military Axe, Military Axe[6])
+[Wed 12/10/14 01:17:41 <Cepstrum> ] File Error: Logfile could not be created (Could not log Pain Fist
+Quhab, Quhab[6])
+[Wed 12/10/14 01:17:41 <Cepstrum> ] File Error: Filehandle is null (Could not log Pain Fist
+Quhab, Quhab[6])
